@@ -1,3 +1,4 @@
 # kata
 
-A description of this package.
+The Bowling Game solution in Swift
+
